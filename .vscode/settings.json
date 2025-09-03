@@ -1,0 +1,13 @@
+{
+  "java.project.sourcePaths": [
+    "Trees",
+    "Strings",
+    "Sorting",
+    "Recursion",
+    "LinkedList",
+    "Graphs",
+    "DSA-with-Java/Arrays",
+    "Arrays",
+    "Bit manipulation"
+  ]
+}
